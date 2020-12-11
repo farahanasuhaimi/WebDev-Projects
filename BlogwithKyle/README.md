@@ -3,12 +3,15 @@
 Steps:
 
 1. Install MongoDB [youtube link](https://www.youtube.com/watch?v=wcx3f0eUiAw)
+
 2. Set up the database server, and basic npm
+
    - `npm init -y`
    - `npm i express mongoose ejs`
    - `npm i --save-dev nodemon`
-   - `npm run devStart` (after changing the package.json to `"devStart": "nodemon server.js"`,)
-     <img src="/WebDev-Projects/BlogwithKyle/images/devstart.PNG" alt="package.json"/>
+   - `npm run devStart` (after changing the package.json to `"devStart": "nodemon server.js"`)
+     ![]("/WebDev-Projects/BlogwithKyle/images/devstart.PNG")
+
 3. Follow the guideline from the [youtube video](https://www.youtube.com/watch?v=1NrHkjlWVhM).
 
 ## Progress
