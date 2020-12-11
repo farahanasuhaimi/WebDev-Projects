@@ -24,4 +24,4 @@ As of now, we have 2 snippets of the projects
 
 - [ ] Build database with MongoDB
 - [ ] Routing the database to the id elements in articles.js and article.js
-- [ ] Integrate this blog to [my portfolio.](https://www.farahanasuhaimi.com) instead of using Hashnode platform at [this link](https://www.blog.farahanasuhaimi.com)
+- [ ] Integrate this blog to [my portfolio.](https://www.farahanasuhaimi.com) instead of using Hashnode platform at [this link](https://blog.farahanasuhaimi.com/)
