@@ -17,10 +17,8 @@ Steps:
 ## Progress
 
 As of now, we have 2 snippets of the projects
-
-<img src="/images/progressV1.PNG" alt="drawing" width="200"/>
-
-<img src="/images/progressV2.PNG" alt="drawing" width="200"/>
+![snippet 1](/images/progressV1.PNG)
+![snippet 2](/images/progressV2.PNG)
 
 ## Task
 
