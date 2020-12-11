@@ -10,7 +10,7 @@ Steps:
    - `npm i express mongoose ejs`
    - `npm i --save-dev nodemon`
    - `npm run devStart` (after changing the package.json to `"devStart": "nodemon server.js"`)
-     ![package.json snippet](/WebDev-Projects/BlogwithKyle/images/devstart.PNG)
+     ![package.json snippet](/images/devstart.PNG)
 
 3. Follow the guideline from the [youtube video](https://www.youtube.com/watch?v=1NrHkjlWVhM).
 
