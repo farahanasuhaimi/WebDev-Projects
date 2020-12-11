@@ -3,7 +3,7 @@
 Date Started: 2 Dec 2020
 Last Updated: 4 Dec 2020
 
-Projects I've attempted. It will be in 2 division. Attempted and Finished projects. And anothe bonus division, which is the **Promising projects**.
+Projects I've attempted. It will be in 2 division. Attempted and Finished projects. And another bonus division, which is the **Promising projects**.
 
 ---
 
