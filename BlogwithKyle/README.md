@@ -17,11 +17,11 @@ Steps:
 ## Progress
 
 As of now, we have 2 snippets of the projects
-![snippet 1](/images/progressV1.PNG)
-![snippet 2](/images/progressV2.PNG)
+![snippet 1](/images/blog_p1.PNG)
+![snippet 2](/images/blog_p2.PNG)
 
 ## Task
 
 - [ ] Build database with MongoDB
 - [ ] Routing the database to the id elements in articles.js and article.js
-- [ ] Integrate this blog to [my portfolio.](farahanasuhaimi.com) instead of using Hashnode platform at [this link](blog.farahanasuhaimi.com)
+- [ ] Integrate this blog to [my portfolio.](https://www.farahanasuhaimi.com) instead of using Hashnode platform at [this link](https://www.blog.farahanasuhaimi.com)
