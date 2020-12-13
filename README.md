@@ -25,6 +25,7 @@ These attempted projects are most probably will be here forever or move to the n
 | ------ | --------- | ------------------------- | --------------- | ------------------------ | -------- | ------------- |
 | 1      | To-do App | HTML + CSS                | Built to-do app | Dev-ed course            | not yet  |               |
 | 2      | Blog      | Node js, Express, MongoDB | Built a blog    | WebDevSimplified Youtube | not yet  |               |
+| 3      | Webpage   | HTML + CSS | A photography website     | Dev-Ed Course | not yet  |               |
 
 ---
 
