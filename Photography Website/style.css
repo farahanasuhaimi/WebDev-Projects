@@ -97,6 +97,7 @@ nav {
   display: flex;
   align-items: center;
   min-height: 10vh;
+  padding: 2rem 0rem;
 }
 
 #logo {
@@ -118,6 +119,8 @@ nav {
   transform: translateY(0.25rem);
   color: rgb(22, 26, 54);
 }
+
+/* Hero Section  */
 
 .hero {
   min-height: 90vh;
