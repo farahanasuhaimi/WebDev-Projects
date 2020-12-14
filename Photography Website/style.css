@@ -137,7 +137,7 @@ nav {
 }
 
 .hero-introduction p {
-  padding: 5rem;
+  padding: 5rem 10rem;
 }
 
 .hero-introduction h2 {
@@ -149,10 +149,11 @@ nav {
   border: 3px solid black;
   margin-bottom: 4rem;
 }
+
 .hero-image {
   flex: 1 1 40rem;
   background: linear-gradient(#dad8dd, #dad1d4);
-  z-index: 2;
+  z-index: 1;
   position: relative;
 }
 
@@ -167,7 +168,8 @@ nav {
   bottom: 0;
   left: -20%;
   z-index: -1;
-  animation: plant-entrance 1.5s ease-in-out;
+  animation: plant-entrance 1.5s ease-in-out,
+    plant-shake 2.5s infinite ease alternate-reverse 2s;
 }
 
 .plant2 {
@@ -186,9 +188,70 @@ nav {
 
 @keyframes plant-entrance {
   from {
-    transform: translateY(10%);
+    transform: translateY(10%) rotateZ(-10deg);
   }
   to {
-    transform: translateY(0%);
+    transform: translateY(0%) rotateZ(0deg);
+  }
+}
+
+@keyframes plant-shake {
+  from {
+    transform: rotateZ(-5deg);
+  }
+  to {
+    transform: rotateZ(0deg);
+  }
+}
+/* Media responsiveness */
+@media screen and (max-width: 842px) {
+  .hero-introduction p {
+    padding: 2rem 5rem;
+  }
+
+  .burger {
+    position: relative;
+  }
+  .burger span {
+    padding: 0.2rem 2rem;
+    background: var(--gray-text);
+    margin: 0.5rem 0rem;
+    display: block;
+  }
+
+  .nav-links a {
+    color: white;
+    font-size: var(--header3);
+    text-decoration: underline;
+  }
+  .nav-links {
+    background: var(--background-color);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    transform: translate(-100%);
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .menu-check {
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    transform: translate(5%, -50%);
+    width: 5rem;
+    height: 5rem;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 5;
+  }
+
+  .menu-check:checked + .nav-links {
+  }
+
+  .menu-check:checked ~ .burger span {
+    background: white;
   }
 }
