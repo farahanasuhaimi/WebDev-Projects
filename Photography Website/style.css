@@ -170,6 +170,7 @@ nav {
   z-index: -1;
   animation: plant-entrance 1.5s ease-in-out,
     plant-shake 2.5s infinite ease alternate-reverse 2s;
+  max-height: 80%;
 }
 
 .plant2 {
@@ -211,8 +212,12 @@ nav {
 
 /* Media responsiveness */
 @media screen and (max-width: 842px) {
+  .hero {
+    width: 100%;
+  }
+
   .hero-introduction p {
-    padding: 2rem 5rem;
+    padding: 5rem 3rem;
   }
 
   .burger {
