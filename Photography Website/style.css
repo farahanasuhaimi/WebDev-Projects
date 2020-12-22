@@ -372,7 +372,7 @@ nav {
   .about-text h2 {
     padding-bottom: 1rem;
   }
-
+  /* Gallery Section */
   .gallery {
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   }
