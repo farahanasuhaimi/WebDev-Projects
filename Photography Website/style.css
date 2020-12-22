@@ -259,10 +259,10 @@ nav {
 
 /* Gallery Section */
 .gallery {
-  position: relative;
   display: grid;
   min-height: 100vh;
-  grid-template-columns: repeat(1fr);
+  grid-template-columns: repeat(3, 1fr);
+  position: relative;
 }
 
 .gallery img {
@@ -279,6 +279,13 @@ nav {
   grid-column: 3/4;
   grid-row: 1/3;
 }
+#gallery3 {
+  grid-column: 2/3;
+}
+#gallery4 {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
 
 .gallery-head {
   position: absolute;
@@ -290,6 +297,7 @@ nav {
   padding: 5rem 10rem;
   text-align: center;
 }
+
 /* Media responsiveness */
 @media screen and (max-width: 842px) {
   .hero {
@@ -373,11 +381,13 @@ nav {
     padding-bottom: 1rem;
   }
   /* Gallery Section */
-  .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-  }
+
   .gallery img {
     grid-row: auto;
     grid-column: auto;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   }
 }
