@@ -129,6 +129,7 @@ select {
   position: relative;
   overflow: hidden;
 }
+
 select {
   color: #ff6f47;
   width: 10rem;
@@ -144,6 +145,7 @@ select {
   right: 0;
   padding: 1rem;
   pointer-events: none;
+  transition: all 0.3s ease;
 }
 
 .select:hover::after {
