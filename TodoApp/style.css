@@ -24,6 +24,10 @@ form {
   align-items: center;
 }
 
+todo-input {
+  min-width: 30%;
+}
+
 form input,
 form button {
   padding: 0.5rem;
@@ -50,7 +54,7 @@ form button:hover {
 }
 
 .todo-list {
-  min-width: 40%;
+  min-width: 30%;
   list-style: none;
 }
 
@@ -102,7 +106,7 @@ form button:hover {
   pointer-events: none;
 }
 
-.check-mark {
+.completed {
   text-decoration: line-through;
   opacity: 0.5;
 }
@@ -110,4 +114,39 @@ form button:hover {
 .fall {
   transform: translateY(8rem) rotateZ(20deg);
   opacity: 0;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  border: none;
+}
+
+.select {
+  margin: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+select {
+  color: #ff6f47;
+  width: 10rem;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+.select::after {
+  content: "\25BC";
+  position: absolute;
+  background: #f07c5d;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+  pointer-events: none;
+}
+
+.select:hover::after {
+  background: white;
+  color: #f07c5d;
 }
