@@ -15,3 +15,5 @@
 2.  Selector section is the connector between HTML file (.document) and the variables for the JS script.
 
 3.  Event listeners section is the connector between HTML file (.document) and the Functions for the JS workaround.
+
+See it live (here)[https://farahanasuhaimi.com/webdev-projects/TodoApp/].

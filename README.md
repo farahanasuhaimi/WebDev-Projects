@@ -37,9 +37,9 @@ These projects have been given its home. Get to the link to check out the projec
 
 Ideal for beginners.
 
-| Number | Name      | Description     | Resources     | Completed | Link                                             |
-| ------ | --------- | --------------- | ------------- | --------- | ------------------------------------------------ |
-| 1      | To-do App | Built to-do app | Dev-ed course | Yes       | (todo-app)[https://farahanasuhaimi.com/todo-app] |
+| Number | Name      | Description     | Resources     | Completed | Link                                                             |
+| ------ | --------- | --------------- | ------------- | --------- | ---------------------------------------------------------------- |
+| 1      | To-do App | Built to-do app | Dev-ed course | Yes       | (todo-app)[https://farahanasuhaimi.com/webdev-projects/TodoApp/] |
 
 ### With any attempted framework
 
