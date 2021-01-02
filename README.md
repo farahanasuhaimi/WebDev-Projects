@@ -24,7 +24,7 @@ These attempted projects are most probably will be here forever or move to the n
 | Number | Name      | Language                  | Description           | Resources                | Status   | Finished date |
 | ------ | --------- | ------------------------- | --------------------- | ------------------------ | -------- | ------------- |
 | 1      | To-do App | HTML + CSS                | Built to-do app       | Dev-ed course            | Finished | 2 Jan 2020    |
-| 2      | Blog      | Node js, Express, MongoDB | Built a blog          | WebDevSimplified Youtube | not yet  |               |
+| 2      | Blog      | Node js, Express, MongoDB | Built a blog          | WebDevSimplified YouTube | not yet  |               |
 | 3      | Webpage   | HTML + CSS                | A photography website | Dev-Ed Course            | not yet  |               |
 
 ---
