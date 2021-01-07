@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+body, input {
     font-family: 'Poppins', sans-serif;
 }
 #63ECFF
