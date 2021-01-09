@@ -406,20 +406,7 @@ footer h4 {
     transition: transform 1s ease;
   }
 
-  .menu-check {
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 5%;
-    transform: translate(5%, -50%);
-    width: 5rem;
-    height: 5rem;
-    cursor: pointer;
-    opacity: 0;
-    z-index: 100;
-  }
-
-  .menu-check:checked + .nav-links {
+  .nav-open {
     transform: translateX(-100%);
   }
 
