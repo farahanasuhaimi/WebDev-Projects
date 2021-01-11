@@ -18,15 +18,25 @@
 
 Screenshot:
 
-1. Desktop views:
-<p>
+1.  Desktop views:
+    <p>
     <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage1.png" />
-</p>
 
-2. Mobile views:
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage2.png" />
+
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage3.png" />
+
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage4.png" />
+
+    </p>
+
+2.  Mobile views:
 
 <p>
-    <img src="/img/webpage5.png" width="220" height="240" />
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage5.png" />
+
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage6.png" />
+
 </p>
 
 See it live here [website]().
