@@ -1,7 +1,7 @@
 # WebDev-Projects
 
 Date Started: 2 Dec 2020
-Last Updated: 2 Jan 2021
+Last Updated: 11 Jan 2021
 
 This is a repo for projects that I've attempted and completed. And another bonus project division, which is the **Promising projects**.
 
@@ -23,9 +23,10 @@ These attempted projects are most probably will be here forever or move to the n
 
 | Number | Name      | Language                  | Description           | Resources                | Status   | Finished date |
 | ------ | --------- | ------------------------- | --------------------- | ------------------------ | -------- | ------------- |
-| 1      | To-do App | HTML + CSS                | Built to-do app       | Dev-ed course            | Finished | 2 Jan 2020    |
+| 1      | To-do App | HTML + CSS                | Built to-do app       | Dev-ed course            | Finished | 2 Jan 2021    |
 | 2      | Blog      | Node js, Express, MongoDB | Built a blog          | WebDevSimplified YouTube | not yet  |               |
-| 3      | Webpage   | HTML + CSS                | A photography website | Dev-Ed Course            | not yet  |               |
+| 3      | Webpage   | HTML + CSS                | A photography website | Dev-Ed Course            | Finished | 10 Jan 2021   |
+| 4      | Webpage   | HTML + CSS + SASS         | A portfolio website   | Dev-Ed Course            | not yet  |               |
 
 ---
 
@@ -37,9 +38,10 @@ These projects have been given its home. Get to the link to check out the projec
 
 Ideal for beginners.
 
-| Number | Name      | Description     | Resources     | Completed | Link                                                             |
-| ------ | --------- | --------------- | ------------- | --------- | ---------------------------------------------------------------- |
-| 1      | To-do App | Built to-do app | Dev-ed course | Yes       | [todo-app](https://farahanasuhaimi.com/webdev-projects/TodoApp/) |
+| Number | Name      | Description        | Resources     | Completed | Link                                                             |
+| ------ | --------- | ------------------ | ------------- | --------- | ---------------------------------------------------------------- |
+| 1      | To-do App | Built to-do app    | Dev-ed course | Yes       | [todo-app](https://farahanasuhaimi.com/webdev-projects/TodoApp/) |
+| 2      | Webpage   | Built grid website | Dev-ed course | Yes       |                                                                  |
 
 ### With any attempted framework
 
