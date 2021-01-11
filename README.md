@@ -41,7 +41,7 @@ Ideal for beginners.
 | Number | Name      | Description        | Resources     | Completed | Link                                                             |
 | ------ | --------- | ------------------ | ------------- | --------- | ---------------------------------------------------------------- |
 | 1      | To-do App | Built to-do app    | Dev-ed course | Yes       | [todo-app](https://farahanasuhaimi.com/webdev-projects/TodoApp/) |
-| 2      | Webpage   | Built grid website | Dev-ed course | Yes       | [Github Folder](Photography Website)                             |
+| 2      | Webpage   | Built grid website | Dev-ed course | Yes       | [Github Folder](/../../Photography%20Website)                    |
 
 ### With any attempted framework
 
