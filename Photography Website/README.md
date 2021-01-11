@@ -33,9 +33,9 @@ Screenshot:
 2.  Mobile views:
 
 <p>
-    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage5.png" />
+<img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage5.png" />
 
-    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage6.png" />
+<img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage6.png" />
 
 </p>
 
