@@ -16,4 +16,17 @@
 
 2. Learn how to implement Burger menu too for mobile design.
 
+Screenshot:
+
+1. Desktop views:
+<p>
+    <img src="/img/webpage1.png" width="220" height="240" />
+</p>
+
+2. Mobile views:
+
+<p>
+    <img src="/img/webpage5.png" width="220" height="240" />
+</p>
+
 See it live here [website]().
