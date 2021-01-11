@@ -20,7 +20,7 @@ Screenshot:
 
 1. Desktop views:
 <p>
-    <img src="/img/webpage1.png" width="220" height="240" />
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Photography%20Website/img/webpage1.png" width="220" height="240" />
 </p>
 
 2. Mobile views:
