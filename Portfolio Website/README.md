@@ -23,4 +23,4 @@
             flex-direction: $direction;
             }
 
-    c. We can have our specific scss file apart from our style.scss by naming it starting with underscore(\_) such as `_globals.scss` and import it in using `@import "global"`.
+    c. We can have our specific scss file apart from our style.scss by naming it starting with underscore(\_) such as `_globals.scss` and import it in using `@import "globals"`.
