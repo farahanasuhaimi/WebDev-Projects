@@ -24,3 +24,11 @@
             }
 
     c. We can have our specific scss file apart from our style.scss by naming it starting with underscore(\_) such as `_globals.scss` and import it in using `@import "globals"`.
+
+3.  Manipulate the grouped svg as #Id name.
+
+    a. `transform-box: fill-box` is used to animate it based on itself.
+
+    b. `tranform-origin: bottom` is used to animate something based on its origin at the bottom such as the long hand clock rotation animation.
+
+    ![](/img/portfolio.gif)
