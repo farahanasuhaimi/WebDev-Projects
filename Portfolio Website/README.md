@@ -31,4 +31,19 @@
 
     b. `tranform-origin: bottom` is used to animate something based on its origin at the bottom such as the long hand clock rotation animation.
 
-    ![](/img/portfolio.gif)
+    ![](https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Portfolio%20Website/img/portfolio.gif)
+
+4.  Screenshot:
+
+    a. Desktop views:
+    <p>
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Portfolio%20Website/img/desktop-view.png" />
+
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Portfolio%20Website/img/desktop-view-small.png" />
+    </p>
+
+    b. Mobile views:
+    <p>
+    <img src="https://raw.githubusercontent.com/farahanasuhaimi/WebDev-Projects/main/Portfolio%20Website/img/tablet-view.png" />
+
+    </p>
