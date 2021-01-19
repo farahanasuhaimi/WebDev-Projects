@@ -16,21 +16,34 @@
         outline: 2px solid black;
       }
       width: 100%;
-    }
-
-    textarea {
       font-family: "Montserrat", sans-serif;
       font-size: 2rem;
+      padding: 1rem;
     }
 
     button {
       width: 100%;
-      padding: 2rem;
+      padding: 1rem 2rem;
       background: $background-color;
+      color: white;
+      &:focus {
+        background: blueviolet;
+      }
     }
   }
 }
 
 footer {
-  @include flex(center, center, column);
+  @include flex(flex-start, center, row);
+  background: $background-color;
+  min-height: 8vh;
+  padding: 0% 5%;
+  h4 {
+    flex: 1 1 40rem;
+    color: whitesmoke;
+  }
+  ul {
+    flex: 1 1 40rem;
+    @include flex(space-around, center, row);
+  }
 }
