@@ -6,6 +6,7 @@ function App() {
       <header>
         <h1>Farahana's Todo List</h1>
       </header>
+      <Form />
     </div>
   );
 }
