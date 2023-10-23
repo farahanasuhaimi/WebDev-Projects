@@ -49,7 +49,7 @@ Ideal for second stage beginner in WebDev
 
 | Number | Name | Description | Resources | Completed | Link |
 | ------ | ---- | ----------- | --------- | --------- | ---- |
-| 1      |      |             |           |           |      |
+| 1      | Laravel Blog | Use Laravel to make blog |           |           |      |
 
 ---
 
