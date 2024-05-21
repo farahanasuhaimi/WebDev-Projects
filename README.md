@@ -27,6 +27,9 @@ These attempted projects are most probably will be here forever or move to the n
 | 2      | Blog      | Node js, Express, MongoDB | Built a blog          | WebDevSimplified YouTube | not yet  |               |
 | 3      | Webpage   | HTML + CSS                | A photography website | Dev-Ed Course            | Finished | 10 Jan 2021   |
 | 4      | Webpage   | HTML + CSS + SASS         | A portfolio website   | Dev-Ed Course            | not yet  |               |
+| 5      | Webpage   | Laravel + React        | E-commerce   | Using Chatgpt           | not yet  |       [Github Folder](https://github.com/farahanasuhaimi/kidsclothingstore)        |
+| 6      | Webpage   | HTML + CSS        | Portfolio   | Denni Ivy Youtube          | not yet  |       [Github Folder](https://github.com/farahanasuhaimi/WebDev-Portfolio)  |
+| 7      | Chrome Extension   | HTML + JSON        | Extension   | Using Chatgpt           | not yet  |       [Github Folder](https://github.com/farahanasuhaimi/time_converter)  |
 
 ---
 
