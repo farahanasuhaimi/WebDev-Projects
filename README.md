@@ -53,7 +53,7 @@ Ideal for second stage beginner in WebDev
 | Number | Name | Description | Resources | Completed | Link |
 | ------ | ---- | ----------- | --------- | --------- | ---- |
 | 1      | Laravel Blog | Use Laravel to make blog |           |           |      |
-
+| 2      | Invoice App | Flask + SQLite | chatGPT | Yes      |   [invoice-app](https://github.com/farahanasuhaimi/invoice_app)   |
 ---
 
 _Will update from time to time._
