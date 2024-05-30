@@ -50,10 +50,10 @@ Ideal for beginners.
 
 Ideal for second stage beginner in WebDev
 
-| Number | Name | Description | Resources | Completed | Link |
-| ------ | ---- | ----------- | --------- | --------- | ---- |
-| 1      | Laravel Blog | Use Laravel to make blog |           |           |      |
-| 2      | Invoice App | Flask + SQLite | chatGPT | Yes      |   [invoice-app](https://github.com/farahanasuhaimi/invoice_app)   |
+| Number | Name | Description | Resources | Completed | Link | Finished date |
+| ------ | ---- | ----------- | --------- | --------- | ---- | --------- |
+| 1      | Invoice App | Flask + SQLite | Using ChatGPT | Yes      |   [invoice-app](https://github.com/farahanasuhaimi/invoice_app)   | 29 May 2024 |
+
 ---
 
 _Will update from time to time._
